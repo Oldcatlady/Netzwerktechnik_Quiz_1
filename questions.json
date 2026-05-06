@@ -1,0 +1,243 @@
+[
+  {
+    "question": "Was macht ein Sniffer?\nA) Er verschlüsselt Datenpakete automatisch, bevor sie das Netzwerk verlassen.\nB) Er überwacht den Datenverkehr in einem Netzwerk und zeigt übertragene Datenpakete an. \nC) Er verteilt Datenpakete gleichmäßig auf alle angeschlossenen Geräte eines Netzwerks.\nD) Er ersetzt automatisch defekte Netzwerkverbindungen durch neue Routen.\nAntwort: B\nErklärung:\nEin Sniffer „hört“ den Datenverkehr in einem Netzwerk mit. Er fängt Datenpakete ab, die zwischen Geräten übertragen werden, und zeigt sie an. So kann man sehen, welche Daten durch das Netzwerk geschickt werden.\n",
+    "type": "mc",
+    "options": [
+      "A) Er verschlüsselt Datenpakete automatisch, bevor sie das Netzwerk verlassen.",
+      "B) Er überwacht den Datenverkehr in einem Netzwerk und zeigt übertragene Datenpakete an.",
+      "C) Er verteilt Datenpakete gleichmäßig auf alle angeschlossenen Geräte eines Netzwerks.",
+      "D) Er ersetzt automatisch defekte Netzwerkverbindungen durch neue Routen."
+    ],
+    "answer": "B",
+    "explanation": "Ein Sniffer „hört“ den Datenverkehr in einem Netzwerk mit. Er fängt Datenpakete ab, die zwischen Geräten übertragen werden, und zeigt sie an. So kann man sehen, welche Daten durch das Netzwerk geschickt werden."
+  },
+  {
+    "question": "Was ist ein Sniffer?\nA) Ein Gerät, das ausschließlich WLAN-Signale verstärkt und weiterleitet.\nB) Ein Programm oder Gerät zur Analyse und Überwachung von Netzwerkverkehr.\nC) Ein Protokoll zur automatischen Vergabe von IP-Adressen im Netzwerk.\nD) Ein Bauteil, das nur für die physische Verbindung von Netzwerkkabeln zuständig ist.\nAntwort: B\nErklärung:\nEin Sniffer ist ein Programm oder ein Gerät, das den Netzwerkverkehr überwacht und analysiert. Ein bekanntes Beispiel ist Wireshark. Damit kann man sich genau anschauen, welche Datenpakete gesendet und empfangen werden.\n",
+    "type": "mc",
+    "options": [
+      "A) Ein Gerät, das ausschließlich WLAN-Signale verstärkt und weiterleitet.",
+      "B) Ein Programm oder Gerät zur Analyse und Überwachung von Netzwerkverkehr.",
+      "C) Ein Protokoll zur automatischen Vergabe von IP-Adressen im Netzwerk.",
+      "D) Ein Bauteil, das nur für die physische Verbindung von Netzwerkkabeln zuständig ist."
+    ],
+    "answer": "B",
+    "explanation": "Ein Sniffer ist ein Programm oder ein Gerät, das den Netzwerkverkehr überwacht und analysiert. Ein bekanntes Beispiel ist Wireshark. Damit kann man sich genau anschauen, welche Datenpakete gesendet und empfangen werden."
+  },
+  {
+    "question": "Wann darf man einen Sniffer benutzen?\nA) Immer dann, wenn man Zugriff auf ein öffentliches WLAN hat.\nB) Nur mit Erlaubnis, zum Beispiel im eigenen Netzwerk oder durch den Betreiber.\nC) Nur wenn man ein Netzwerk neu einrichtet und testet.\nD) Nur wenn keine anderen Geräte im Netzwerk aktiv sind.\nAntwort: B\nErklärung:\nEinen Sniffer darf man nur benutzen, wenn man die Erlaubnis dafür hat. Das ist zum Beispiel im eigenen Netzwerk erlaubt oder wenn der Netzwerkbetreiber zugestimmt hat. Ohne Erlaubnis wäre es verboten, weil man damit fremde Daten ausspähen könnte.\n",
+    "type": "mc",
+    "options": [
+      "A) Immer dann, wenn man Zugriff auf ein öffentliches WLAN hat.",
+      "B) Nur mit Erlaubnis, zum Beispiel im eigenen Netzwerk oder durch den Betreiber.",
+      "C) Nur wenn man ein Netzwerk neu einrichtet und testet.",
+      "D) Nur wenn keine anderen Geräte im Netzwerk aktiv sind."
+    ],
+    "answer": "B",
+    "explanation": "Einen Sniffer darf man nur benutzen, wenn man die Erlaubnis dafür hat. Das ist zum Beispiel im eigenen Netzwerk erlaubt oder wenn der Netzwerkbetreiber zugestimmt hat. Ohne Erlaubnis wäre es verboten, weil man damit fremde Daten ausspähen könnte."
+  },
+{
+"question": "Was ist das OSI-Modell?\nA) Ein physisches Kabelsystem zur Verbindung von Computern.\nB) Ein Modell zur Beschreibung der Schichten der Netzwerkkommunikation.\nC) Ein Programm zur Überwachung von Internetgeschwindigkeiten.\nD) Ein Sicherheitsprotokoll zur Verschlüsselung von Datenübertragungen.\nAntwort: B\nErklärung:\nDas OSI-Modell ist ein Modell, das beschreibt, wie Daten in einem Netzwerk übertragen werden. Es teilt den Ablauf in mehrere Schichten ein, damit man besser verstehen kann, welche Aufgabe jeder Teil der Kommunikation hat.\n",
+"type": "mc",
+"options": [
+"A) Ein physisches Kabelsystem zur Verbindung von Computern.",
+"B) Ein Modell zur Beschreibung der Schichten der Netzwerkkommunikation.",
+"C) Ein Programm zur Überwachung von Internetgeschwindigkeiten.",
+"D) Ein Sicherheitsprotokoll zur Verschlüsselung von Datenübertragungen."
+],
+"answer": "B",
+"explanation": "Das OSI-Modell ist ein Modell, das beschreibt, wie Daten in einem Netzwerk übertragen werden. Es teilt den Ablauf in mehrere Schichten ein, damit man besser verstehen kann, welche Aufgabe jeder Teil der Kommunikation hat."
+},
+{
+"question": "Wie viele Schichten hat das OSI-Modell?\nA) Fünf Schichten\nB) Sieben Schichten\nC) Neun Schichten\nD) Zwölf Schichten\nAntwort: B\nErklärung:\nDas OSI-Modell hat sieben Schichten. Jede Schicht hat eine eigene Aufgabe bei der Datenübertragung.\n",
+"type": "mc",
+"options": [
+"A) Fünf Schichten",
+"B) Sieben Schichten",
+"C) Neun Schichten",
+"D) Zwölf Schichten"
+],
+"answer": "B",
+"explanation": "Das OSI-Modell hat sieben Schichten. Jede Schicht hat eine eigene Aufgabe bei der Datenübertragung."
+},
+{
+"question": "Welches aus der folgenden Auswahl ist keine Schicht im OSI-Modell?\nA) Anwendungsschicht\nB) Internet-Schicht\nC) Transportschicht\nD) Sicherungsschicht\nAntwort: B\nErklärung:\nEine Schicht, die nicht zum OSI-Modell gehört, ist zum Beispiel die „Internet-Schicht“. Diese gehört zum TCP/IP-Modell und nicht zum OSI-Modell.\n",
+"type": "mc",
+"options": [
+"A) Anwendungsschicht",
+"B) Internet-Schicht",
+"C) Transportschicht",
+"D) Sicherungsschicht"
+],
+"answer": "B",
+"explanation": "Eine Schicht, die nicht zum OSI-Modell gehört, ist zum Beispiel die „Internet-Schicht“. Diese gehört zum TCP/IP-Modell und nicht zum OSI-Modell."
+},
+{
+"question": "Wofür steht CSMA/CD?\nA) Carrier Signal Monitoring / Communication Detection\nB) Carrier Sense Multiple Access / Collision Detection\nC) Control System Management / Data Control\nD) Central Switching Mode / Access Distribution\nAntwort: B\nErklärung:\nCSMA/CD steht für „Carrier Sense Multiple Access / Collision Detection“.\n",
+"type": "mc",
+"options": [
+"A) Carrier Signal Monitoring / Communication Detection",
+"B) Carrier Sense Multiple Access / Collision Detection",
+"C) Control System Management / Data Control",
+"D) Central Switching Mode / Access Distribution"
+],
+"answer": "B",
+"explanation": "CSMA/CD steht für „Carrier Sense Multiple Access / Collision Detection“."
+},
+{
+"question": "Was ist CSMA/CD?\nA) Ein Verfahren zur automatischen Vergabe von IP-Adressen in Netzwerken.\nB) Ein Verfahren zur gleichzeitigen Verschlüsselung und Kompression von Daten.\nC) Ein Verfahren, bei dem Geräte Kollisionen im Netzwerk erkennen und darauf reagieren.\nD) Ein Protokoll zur direkten Verbindung von zwei Computern ohne Netzwerkgerät.\nAntwort: C\nErklärung:\nCSMA/CD ist ein Verfahren aus der Netzwerktechnik, das früher in Ethernet-Netzwerken genutzt wurde. Es sorgt dafür, dass mehrere Computer ein gemeinsames Übertragungsmedium nutzen können. Dabei hört jeder Computer zuerst, ob die Leitung frei ist. Wenn zwei Geräte gleichzeitig senden und es zu einer Kollision kommt, erkennen sie das, brechen die Übertragung ab und versuchen es nach einer kurzen Zeit erneut.\n",
+"type": "mc",
+"options": [
+"A) Ein Verfahren zur automatischen Vergabe von IP-Adressen in Netzwerken.",
+"B) Ein Verfahren zur gleichzeitigen Verschlüsselung und Kompression von Daten.",
+"C) Ein Verfahren, bei dem Geräte Kollisionen im Netzwerk erkennen und darauf reagieren.",
+"D) Ein Protokoll zur direkten Verbindung von zwei Computern ohne Netzwerkgerät."
+],
+"answer": "C",
+"explanation": "CSMA/CD ist ein Verfahren aus der Netzwerktechnik, das früher in Ethernet-Netzwerken genutzt wurde. Es sorgt dafür, dass mehrere Computer ein gemeinsames Übertragungsmedium nutzen können. Dabei hört jeder Computer zuerst, ob die Leitung frei ist. Wenn zwei Geräte gleichzeitig senden und es zu einer Kollision kommt, erkennen sie das, brechen die Übertragung ab und versuchen es nach einer kurzen Zeit erneut."
+},
+{
+"question": "Wo findet man Netzwerkkarten?\nA) Netzwerkkarten findet man nur in Servern und großen Rechenzentren.\nB) Netzwerkkarten findet man ausschließlich in Desktop-Computern.\nC) Netzwerkkarten findet man in allen Geräten, die sich mit einem Netzwerk verbinden können. Dazu gehören zum Beispiel Computer, Laptops, Smartphones, Tablets oder auch Spielkonsolen. Oft sind Netzwerkkarten heute schon fest in das Gerät eingebaut.\nD) Netzwerkkarten sind nur als externe USB-Geräte erhältlich und nicht fest verbaut.\nAntwort: C\nErklärung:\nNetzwerkkarten sind in fast allen modernen Geräten eingebaut, die sich mit einem Netzwerk verbinden können.\n",
+"type": "mc",
+"options": [
+"A) Netzwerkkarten findet man nur in Servern und großen Rechenzentren.",
+"B) Netzwerkkarten findet man ausschließlich in Desktop-Computern.",
+"C) Netzwerkkarten findet man in allen Geräten, die sich mit einem Netzwerk verbinden können. Dazu gehören zum Beispiel Computer, Laptops, Smartphones, Tablets oder auch Spielkonsolen. Oft sind Netzwerkkarten heute schon fest in das Gerät eingebaut.",
+"D) Netzwerkkarten sind nur als externe USB-Geräte erhältlich und nicht fest verbaut."
+],
+"answer": "C",
+"explanation": "Netzwerkkarten sind in fast allen modernen Geräten eingebaut, die sich mit einem Netzwerk verbinden können."
+},
+{
+"question": "Wie kann man eine Netzwerkkarte erreichen?\nA) Über die IP-Adresse des Routers\nB) Über die MAC-Adresse der Netzwerkkarte\nC) Über den Hostnamen des Betriebssystems\nD) Über die Seriennummer des Geräts\nAntwort: B\nErklärung:\nEine Netzwerkkarte erreicht man über ihre sogenannte MAC-Adresse. Das ist eine eindeutige Adresse, die jede Netzwerkkarte besitzt. Über diese Adresse können Daten im Netzwerk genau an das richtige Gerät geschickt werden.\n",
+"type": "mc",
+"options": [
+"A) Über die IP-Adresse des Routers",
+"B) Über die MAC-Adresse der Netzwerkkarte",
+"C) Über den Hostnamen des Betriebssystems",
+"D) Über die Seriennummer des Geräts"
+],
+"answer": "B",
+"explanation": "Eine Netzwerkkarte erreicht man über ihre sogenannte MAC-Adresse. Das ist eine eindeutige Adresse, die jede Netzwerkkarte besitzt. Über diese Adresse können Daten im Netzwerk genau an das richtige Gerät geschickt werden."
+},
+{
+"question": "Welche Eigenschaft aus der Liste hat eine Netzwerkkarte?\nA) Sie hat eine feste öffentliche IP-Adresse\nB) Sie besitzt eine eindeutige MAC-Adresse\nC) Sie führt eigenständig Programme aus\nD) Sie speichert dauerhaft alle übertragenen Daten\nAntwort: B\nErklärung:\nEine wichtige Eigenschaft einer Netzwerkkarte ist, dass sie eine eindeutige MAC-Adresse hat. Diese Adresse ist fest vergeben und sorgt dafür, dass das Gerät im Netzwerk eindeutig erkannt werden kann.\n",
+"type": "mc",
+"options": [
+"A) Sie hat eine feste öffentliche IP-Adresse",
+"B) Sie besitzt eine eindeutige MAC-Adresse",
+"C) Sie führt eigenständig Programme aus",
+"D) Sie speichert dauerhaft alle übertragenen Daten"
+],
+"answer": "B",
+"explanation": "Eine wichtige Eigenschaft einer Netzwerkkarte ist, dass sie eine eindeutige MAC-Adresse hat. Diese Adresse ist fest vergeben und sorgt dafür, dass das Gerät im Netzwerk eindeutig erkannt werden kann."
+},
+{
+"question": "Welche Eigenschaften aus der Liste hat eine Netzwerkkarte nicht?\nA) Sie besitzt eine fest vergebene MAC-Adresse\nB) Sie kann Daten im Netzwerk senden und empfangen\nC) Sie hat keine feste, unveränderliche IP-Adresse als eigene Eigenschaft. Die IP-Adresse wird vom Netzwerk vergeben und kann sich ändern. Außerdem ist die Netzwerkkarte nicht dafür zuständig, Programme auszuführen oder Daten dauerhaft zu speichern.\nD) Sie arbeitet als Schnittstelle zwischen Gerät und Netzwerk\nAntwort: C\nErklärung:\nEine Netzwerkkarte hat keine feste IP-Adresse und führt keine Programme aus. Diese Aufgaben liegen beim Betriebssystem bzw. dem Netzwerk.",
+"type": "mc",
+"options": [
+"A) Sie besitzt eine fest vergebene MAC-Adresse",
+"B) Sie kann Daten im Netzwerk senden und empfangen",
+"C) Sie hat keine feste, unveränderliche IP-Adresse als eigene Eigenschaft. Die IP-Adresse wird vom Netzwerk vergeben und kann sich ändern. Außerdem ist die Netzwerkkarte nicht dafür zuständig, Programme auszuführen oder Daten dauerhaft zu speichern.",
+"D) Sie arbeitet als Schnittstelle zwischen Gerät und Netzwerk"
+],
+"answer": "C",
+"explanation": "Eine Netzwerkkarte hat keine feste IP-Adresse und führt keine Programme aus. Diese Aufgaben liegen beim Betriebssystem bzw. dem Netzwerk."
+},
+{
+"question": "Was macht eine Netzwerkkarte mit einem Datenpaket?\nA) Sie speichert Datenpakete dauerhaft im Speicher des Computers.\nB) Sie wandelt Daten nur beim Empfangen in Signale um und ignoriert das Senden.\nC) Eine Netzwerkkarte sorgt dafür, dass Datenpakete gesendet und empfangen werden können. Beim Senden wandelt sie die Daten in elektrische oder Funksignale um, die über das Netzwerk übertragen werden. Beim Empfangen wandelt sie diese Signale wieder in Daten um und gibt sie an das Betriebssystem weiter.\nD) Sie leitet Datenpakete ohne Verarbeitung direkt an andere Geräte weiter.\nAntwort: C\nErklärung:\nEine Netzwerkkarte sorgt dafür, dass Datenpakete gesendet und empfangen werden können. Beim Senden wandelt sie die Daten in elektrische oder Funksignale um, die über das Netzwerk übertragen werden. Beim Empfangen wandelt sie diese Signale wieder in Daten um und gibt sie an das Betriebssystem weiter.",
+"type": "mc",
+"options": [
+"A) Sie speichert Datenpakete dauerhaft im Speicher des Computers.",
+"B) Sie wandelt Daten nur beim Empfangen in Signale um und ignoriert das Senden.",
+"C) Eine Netzwerkkarte sorgt dafür, dass Datenpakete gesendet und empfangen werden können. Beim Senden wandelt sie die Daten in elektrische oder Funksignale um, die über das Netzwerk übertragen werden. Beim Empfangen wandelt sie diese Signale wieder in Daten um und gibt sie an das Betriebssystem weiter.",
+"D) Sie leitet Datenpakete ohne Verarbeitung direkt an andere Geräte weiter."
+],
+"answer": "C",
+"explanation": "Eine Netzwerkkarte sorgt dafür, dass Datenpakete gesendet und empfangen werden können. Beim Senden wandelt sie die Daten in elektrische oder Funksignale um, die über das Netzwerk übertragen werden. Beim Empfangen wandelt sie diese Signale wieder in Daten um und gibt sie an das Betriebssystem weiter."
+},
+{
+"question": "Was tut eine Netzwerkkarte, wenn sie ein Datenpaket erhält, dass nicht für sie bestimmt ist?\nA) Sie speichert das Datenpaket für spätere Verarbeitung.\nB) Sie leitet das Datenpaket an den Router weiter.\nC) Wenn eine Netzwerkkarte ein Datenpaket erhält, das nicht an ihre eigene MAC-Adresse adressiert ist, verwirft sie dieses Paket. Das bedeutet, sie ignoriert es und leitet es nicht weiter.\nD) Sie verändert die Zieladresse und sendet das Paket erneut ins Netzwerk.\nAntwort: C\nErklärung:\nWenn eine Netzwerkkarte ein Datenpaket erhält, das nicht an ihre eigene MAC-Adresse adressiert ist, verwirft sie dieses Paket. Das bedeutet, sie ignoriert es und leitet es nicht weiter.",
+"type": "mc",
+"options": [
+"A) Sie speichert das Datenpaket für spätere Verarbeitung.",
+"B) Sie leitet das Datenpaket an den Router weiter.",
+"C) Wenn eine Netzwerkkarte ein Datenpaket erhält, das nicht an ihre eigene MAC-Adresse adressiert ist, verwirft sie dieses Paket. Das bedeutet, sie ignoriert es und leitet es nicht weiter.",
+"D) Sie verändert die Zieladresse und sendet das Paket erneut ins Netzwerk."
+],
+"answer": "C",
+"explanation": "Wenn eine Netzwerkkarte ein Datenpaket erhält, das nicht an ihre eigene MAC-Adresse adressiert ist, verwirft sie dieses Paket. Das bedeutet, sie ignoriert es und leitet es nicht weiter."
+},
+{
+"question": "Was ist ein Switch?\nA) Ein Gerät zur Verstärkung von WLAN-Signalen.\nB) Ein Programm zur Verwaltung von IP-Adressen.\nC) Ein Switch ist ein Gerät in einem Netzwerk, das mehrere Geräte miteinander verbindet. Er merkt sich, welche MAC-Adresse an welchem Anschluss hängt, und leitet Datenpakete gezielt nur an den richtigen Empfänger weiter. Dadurch wird das Netzwerk schneller und effizienter.\nD) Ein Kabel zur Verbindung mehrerer Netzwerke.\nAntwort: C\nErklärung:\nEin Switch ist ein Gerät in einem Netzwerk, das mehrere Geräte miteinander verbindet. Er merkt sich, welche MAC-Adresse an welchem Anschluss hängt, und leitet Datenpakete gezielt nur an den richtigen Empfänger weiter. Dadurch wird das Netzwerk schneller und effizienter.",
+"type": "mc",
+"options": [
+"A) Ein Gerät zur Verstärkung von WLAN-Signalen.",
+"B) Ein Programm zur Verwaltung von IP-Adressen.",
+"C) Ein Switch ist ein Gerät in einem Netzwerk, das mehrere Geräte miteinander verbindet. Er merkt sich, welche MAC-Adresse an welchem Anschluss hängt, und leitet Datenpakete gezielt nur an den richtigen Empfänger weiter. Dadurch wird das Netzwerk schneller und effizienter.",
+"D) Ein Kabel zur Verbindung mehrerer Netzwerke."
+],
+"answer": "C",
+"explanation": "Ein Switch ist ein Gerät in einem Netzwerk, das mehrere Geräte miteinander verbindet. Er merkt sich, welche MAC-Adresse an welchem Anschluss hängt, und leitet Datenpakete gezielt nur an den richtigen Empfänger weiter. Dadurch wird das Netzwerk schneller und effizienter."
+},
+{
+"question": "Wofür benutzt man einen Switch?\nA) Um Geräte ohne Netzwerk miteinander zu verbinden.\nB) Um Internetgeschwindigkeit automatisch zu erhöhen.\nC) Einen Switch benutzt man, um mehrere Geräte in einem Netzwerk miteinander zu verbinden. Er sorgt dafür, dass Datenpakete gezielt nur an das richtige Gerät weitergeleitet werden und nicht an alle Geräte gleichzeitig. Dadurch wird das Netzwerk schneller und effizienter.\nD) Um automatisch IP-Adressen zu vergeben.\nAntwort: C\nErklärung:\nEinen Switch benutzt man, um mehrere Geräte in einem Netzwerk miteinander zu verbinden. Er sorgt dafür, dass Datenpakete gezielt nur an das richtige Gerät weitergeleitet werden und nicht an alle Geräte gleichzeitig. Dadurch wird das Netzwerk schneller und effizienter.",
+"type": "mc",
+"options": [
+"A) Um Geräte ohne Netzwerk miteinander zu verbinden.",
+"B) Um Internetgeschwindigkeit automatisch zu erhöhen.",
+"C) Einen Switch benutzt man, um mehrere Geräte in einem Netzwerk miteinander zu verbinden. Er sorgt dafür, dass Datenpakete gezielt nur an das richtige Gerät weitergeleitet werden und nicht an alle Geräte gleichzeitig. Dadurch wird das Netzwerk schneller und effizienter.",
+"D) Um automatisch IP-Adressen zu vergeben."
+],
+"answer": "C",
+"explanation": "Einen Switch benutzt man, um mehrere Geräte in einem Netzwerk miteinander zu verbinden. Er sorgt dafür, dass Datenpakete gezielt nur an das richtige Gerät weitergeleitet werden und nicht an alle Geräte gleichzeitig. Dadurch wird das Netzwerk schneller und effizienter."
+},
+{
+"question": "Was ist der Unterschied zwischen einem managed und einem un-managed Switch?\nA) Ein managed Switch funktioniert ohne Strom.\nB) Ein un-managed Switch ist immer schneller als ein managed Switch.\nC) Ein unmanaged Switch arbeitet automatisch und ohne Einstellungen. Man steckt die Geräte ein und er funktioniert sofort. Ein managed Switch kann dagegen konfiguriert werden. Man kann zum Beispiel einstellen, welche Geräte miteinander kommunizieren dürfen oder VLANs einrichten. Dadurch hat man mehr Kontrolle über das Netzwerk.\nD) Beide Switch-Typen sind technisch identisch ohne Unterschiede.\nAntwort: C\nErklärung:\nEin unmanaged Switch arbeitet automatisch und ohne Einstellungen. Man steckt die Geräte ein und er funktioniert sofort. Ein managed Switch kann dagegen konfiguriert werden. Man kann zum Beispiel einstellen, welche Geräte miteinander kommunizieren dürfen oder VLANs einrichten. Dadurch hat man mehr Kontrolle über das Netzwerk.",
+"type": "mc",
+"options": [
+"A) Ein managed Switch funktioniert ohne Strom.",
+"B) Ein un-managed Switch ist immer schneller als ein managed Switch.",
+"C) Ein unmanaged Switch arbeitet automatisch und ohne Einstellungen. Man steckt die Geräte ein und er funktioniert sofort. Ein managed Switch kann dagegen konfiguriert werden. Man kann zum Beispiel einstellen, welche Geräte miteinander kommunizieren dürfen oder VLANs einrichten. Dadurch hat man mehr Kontrolle über das Netzwerk.",
+"D) Beide Switch-Typen sind technisch identisch ohne Unterschiede."
+],
+"answer": "C",
+"explanation": "Ein unmanaged Switch arbeitet automatisch und ohne Einstellungen. Man steckt die Geräte ein und er funktioniert sofort. Ein managed Switch kann dagegen konfiguriert werden. Man kann zum Beispiel einstellen, welche Geräte miteinander kommunizieren dürfen oder VLANs einrichten. Dadurch hat man mehr Kontrolle über das Netzwerk."
+},
+{
+"question": "Welche Eigenschaften aus der Liste hat eine Netzwerkkarte nicht?\nA) Sie besitzt eine fest vergebene MAC-Adresse\nB) Sie kann Daten im Netzwerk senden und empfangen\nC) Sie hat keine feste, unveränderliche IP-Adresse als eigene Eigenschaft. Die IP-Adresse wird vom Netzwerk vergeben und kann sich ändern. Außerdem ist die Netzwerkkarte nicht dafür zuständig, Programme auszuführen oder Daten dauerhaft zu speichern.\nD) Sie arbeitet als Schnittstelle zwischen Gerät und Netzwerk\nAntwort: C\nErklärung:\nEine Netzwerkkarte hat keine feste IP-Adresse und führt keine Programme aus. Diese Aufgaben liegen beim Betriebssystem bzw. dem Netzwerk.",
+"type": "mc",
+"options": [
+"A) Sie besitzt eine fest vergebene MAC-Adresse",
+"B) Sie kann Daten im Netzwerk senden und empfangen",
+"C) Sie hat keine feste, unveränderliche IP-Adresse als eigene Eigenschaft. Die IP-Adresse wird vom Netzwerk vergeben und kann sich ändern. Außerdem ist die Netzwerkkarte nicht dafür zuständig, Programme auszuführen oder Daten dauerhaft zu speichern.",
+"D) Sie arbeitet als Schnittstelle zwischen Gerät und Netzwerk"
+],
+"answer": "C",
+"explanation": "Eine Netzwerkkarte hat keine feste IP-Adresse und führt keine Programme aus. Diese Aufgaben liegen beim Betriebssystem bzw. dem Netzwerk."
+},
+{
+"question": "Was macht eine Netzwerkkarte mit einem Datenpaket?\nA) Sie speichert Datenpakete dauerhaft im Speicher des Computers.\nB) Sie wandelt Daten nur beim Empfangen in Signale um und ignoriert das Senden.\nC) Eine Netzwerkkarte sorgt dafür, dass Datenpakete gesendet und empfangen werden können. Beim Senden wandelt sie die Daten in elektrische oder Funksignale um, die über das Netzwerk übertragen werden. Beim Empfangen wandelt sie diese Signale wieder in Daten um und gibt sie an das Betriebssystem weiter.\nD) Sie leitet Datenpakete ohne Verarbeitung direkt an andere Geräte weiter.\nAntwort: C\nErklärung:\nEine Netzwerkkarte sorgt dafür, dass Datenpakete gesendet und empfangen werden können. Beim Senden wandelt sie die Daten in elektrische oder Funksignale um, die über das Netzwerk übertragen werden. Beim Empfangen wandelt sie diese Signale wieder in Daten um und gibt sie an das Betriebssystem weiter.",
+"type": "mc",
+"options": [
+"A) Sie speichert Datenpakete dauerhaft im Speicher des Computers.",
+"B) Sie wandelt Daten nur beim Empfangen in Signale um und ignoriert das Senden.",
+"C) Eine Netzwerkkarte sorgt dafür, dass Datenpakete gesendet und empfangen werden können. Beim Senden wandelt sie die Daten in elektrische oder Funksignale um, die über das Netzwerk übertragen werden. Beim Empfangen wandelt sie diese Signale wieder in Daten um und gibt sie an das Betriebssystem weiter.",
+"D) Sie leitet Datenpakete ohne Verarbeitung direkt an andere Geräte weiter."
+],
+"answer": "C",
+"explanation": "Eine Netzwerkkarte sorgt dafür, dass Datenpakete gesendet und empfangen werden können. Beim Senden wandelt sie die Daten in elektrische oder Funksignale um, die über das Netzwerk übertragen werden. Beim Empfangen wandelt sie diese Signale wieder in Daten um und gibt sie an das Betriebssystem weiter."
+},
+{
+"question": "Was tut eine Netzwerkkarte, wenn sie ein Datenpaket erhält, dass nicht für sie bestimmt ist?\nA) Sie speichert das Datenpaket für spätere Verarbeitung.\nB) Sie leitet das Datenpaket an den Router weiter.\nC) Wenn eine Netzwerkkarte ein Datenpaket erhält, das nicht an ihre eigene MAC-Adresse adressiert ist, verwirft sie dieses Paket. Das bedeutet, sie ignoriert es und leitet es nicht weiter.\nD) Sie verändert die Zieladresse und sendet das Paket erneut ins Netzwerk.\nAntwort: C\nErklärung:\nWenn eine Netzwerkkarte ein Datenpaket erhält, das nicht an ihre eigene MAC-Adresse adressiert ist, verwirft sie dieses Paket. Das bedeutet, sie ignoriert es und leitet es nicht weiter.",
+"type": "mc",
+"options": [
+"A) Sie speichert das Datenpaket für spätere Verarbeitung.",
+"B) Sie leitet das Datenpaket an den Router weiter.",
+"C) Wenn eine Netzwerkkarte ein Datenpaket erhält, das nicht an ihre eigene MAC-Adresse adressiert ist, verwirft sie dieses Paket. Das bedeutet, sie ignoriert es und leitet es nicht weiter.",
+"D) Sie verändert die Zieladresse und sendet das Paket erneut ins Netzwerk."
+],
+"answer": "C",
+"explanation": "Wenn eine Netzwerkkarte ein Datenpaket erhält, das nicht an ihre eigene MAC-Adresse adressiert ist, verwirft sie dieses Paket. Das bedeutet, sie ignoriert es und leitet es nicht weiter."
+}
+]
+
